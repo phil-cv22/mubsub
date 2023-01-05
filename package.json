@@ -1,9 +1,9 @@
 {
-  "name": "mubsub",
+  "name": "mubsub-mongo6",
   "version": "1.4.0",
   "description": "Pub/sub for Node.js and MongoDB",
-  "homepage": "http://github.com/scttnlsn/mubsub",
-  "author": "Scott Nelson <scott@scttnlsn.com>",
+  "homepage": "http://github.com/phil-cv22/mubsub",
+  "author": "phil.thomas@dycominc.com",
   "license": "MIT",
   "main": "./lib/index",
   "keywords": [
@@ -24,7 +24,7 @@
     "url": "git://github.com/scttnlsn/mubsub.git"
   },
   "dependencies": {
-    "mongodb": "^2.0.35"
+    "mongodb": "^4.13.0"
   },
   "devDependencies": {
     "mocha": "^2.2.5"
